@@ -1,0 +1,23 @@
+___: my UNDERSTANDING ON linkedList :___ .. // this is just basics
+
+01.*linked list is a set of values that linked together like -> [1] -> [5] -> [3] -> [8] -> [9]
+
+02.*each values called NODE ,
+
+03.*you can only go head to tail like [1] -> [2] not [1] <- [2] // 
+         : in linkedList called **doubly linked** you can go both side ->-> <-<-
+
+04.*you can change the values of NODES as well
+
+
+    In this Nodes:    
+        nodeA = LinkedList_Node(1)
+        nodeB = LinkedList_Node(2)
+        nodeC = LinkedList_Node(7)
+        nodeD = LinkedList_Node(9)
+if you put head as # nodeA: there will be -- 4 Nodes --
+
+if you put head as # nodeC: there will be -- 2 Nodes --
+        like thta.......
+
+Study More
