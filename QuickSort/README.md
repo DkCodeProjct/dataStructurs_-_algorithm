@@ -1,0 +1,1 @@
+# learn about the algo and write this .md ,, also write func in class
